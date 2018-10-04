@@ -22,13 +22,19 @@ ZiaData <- readXL("Zia_Fixed_Data.xlsx", rownames=FALSE, header=TRUE, na="",
 
 <!--In this section you explain what you are trying to show.  Where did the data come from?  What is the research or other question you are trying to answer?!-->
 
+We are trying to find the correlation between the following: Air temperature/ Ground wind speed/ Ground humidity/ Soil temperature had in reguards of the found scorpions distance from vegetation.
+ 
 # Methods
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
+We will be using a variety of graphs and correlation calculations with the help of RCommander
+
 #Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
+
+We have found that there is some positive and negative correlations between the distance that found scorpions were in reguards of vegetation.
 
 ## Descriptive Results
 
